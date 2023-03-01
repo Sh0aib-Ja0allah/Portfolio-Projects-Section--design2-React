@@ -1,0 +1,24 @@
+*{
+  text-decoration: none;
+  color: var(--whiteColor);
+  font-weight: 600;
+}
+
+.App {
+  background-color: var(--blackColor);
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
